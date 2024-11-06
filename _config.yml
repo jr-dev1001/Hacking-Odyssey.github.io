@@ -9,7 +9,7 @@ yat:
 defaults:
   home:
       heading: "Hacking Odessey"
-      subheading: "If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength... to shatter fate."
+      subheading: "There is nothing we can do. So I wish for strength... to shatter fate."
       banner: "home.jpg"
       
 favicon: "https://avatars.githubusercontent.com/u/85192850"
