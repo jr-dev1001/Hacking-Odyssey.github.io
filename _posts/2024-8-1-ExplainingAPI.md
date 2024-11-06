@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What is an API? 🤷‍♂️
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/sternrest/conkyrainmeter/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: How does two networks connect with a medium?
+excerpt_image: 
+categories: API
+tags: [API]
 ---
 
 ## Motivation

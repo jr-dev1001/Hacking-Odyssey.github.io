@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Start Exploring Java Fundamentals A Comprehensive Guide 📖!
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: What is Java and whats inside Java?
+excerpt_image: 
+categories: Java
+tags: [Java]
 ---
 <h3 align="center">My first Blog.</h3>
 

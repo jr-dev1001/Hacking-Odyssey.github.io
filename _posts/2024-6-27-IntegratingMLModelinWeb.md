@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/sternrest/conkyrainmeter/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: How does model interact with frontend?
+excerpt_image: 
+categories: MachineLearning Angular
+tags: [MachineLearning Angular]
 ---
 
 ## Just for Motivation

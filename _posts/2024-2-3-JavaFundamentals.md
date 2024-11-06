@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Learning Java Fundamentals 🔤!
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: what are the items required for programming?
+excerpt_image: 
+categories: Java
+tags: [Java]
 ---
 
 In this Blog we'll briefly learn about variables, datatypes, conditional statements, loops and functions in Java.

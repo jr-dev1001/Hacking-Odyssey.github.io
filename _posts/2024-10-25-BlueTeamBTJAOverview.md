@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Overview of Security Blue Team BTJA bundle 🛡️
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/sternrest/conkyrainmeter/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: What is the importance of Protecting our data?
+excerpt_image: 
+categories: CyberSecurity
+tags: [CyberSecurity BlueTeam]
 ---
 
 ## Motivation

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Exploring Java Fundamentals Part 2 🔢!
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: Why Object Oriented Programming? 
+excerpt_image: 
+categories: Java OOPS
+tags: [Java OOPS]
 ---
 
 "Innovation happens in the darndest places, and when you think it’s just a fad is often when it’s just about to change the world." - James Gosling

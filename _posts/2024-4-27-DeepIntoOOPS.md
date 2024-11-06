@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Dive Deep 🏊‍♂️ into OOPS with Java 🚀 
-subtitle: Windows 10/11 configuration theme with pink color scheme
-excerpt_image: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png
-categories: windows theme
-tags: [windows theme]
+subtitle: What is in the OOPS?
+excerpt_image: 
+categories: Java OOPS
+tags: [Java OOPS]
 ---
 
 ##
