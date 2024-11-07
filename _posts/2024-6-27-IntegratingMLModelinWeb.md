@@ -3,8 +3,8 @@ layout: post
 title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
 subtitle: How does model interact with frontend?
 excerpt_image: 
-categories: MachineLearning Angular
-tags: [MachineLearning Angular]
+categories: MachineLearning
+tags: [MachineLearning]
 ---
 
 ## Just for Motivation
