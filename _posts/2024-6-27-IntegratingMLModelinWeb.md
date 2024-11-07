@@ -56,9 +56,9 @@ Refer to (https://www.tensorflow.org/lite/models/convert/convert_models) for mor
 
 Before integrating we need to know about the model functionality .In my understanding there are three things to keep in my mind what is accepatable input and it's shape, what is the expected output and main importantly any preprocessing is required or not.
 
-Let us assume we have a model to classify cats and dogs images. To display this </br>
-input,shape : 2D array,[168,244] - {What we need to send to the model}</br>
-output : class_name - {what we get from the model}</br>
+Let us assume we have a model to classify cats and dogs images. To display this <br>
+input,shape : 2D array,[168,244] - {What we need to send to the model} <br>
+output : class_name - {what we get from the model} <br>
 preprocessing : image should be converted into 2D array . {what we need to do before sending the input to the model}.
 
 <div style="text-align:center;"> 
