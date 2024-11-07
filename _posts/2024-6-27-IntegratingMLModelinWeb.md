@@ -62,7 +62,7 @@ output : class_name - {what we get from the model}</br>
 preprocessing : image should be converted into 2D array . {what we need to do before sending the input to the model}.
 
 <div style="text-align:center;"> 
-    <img src="/images/CatsNDogs.jpg" height="500px" width="500px">
+    <img src="https://tinyurl.com/vyjkzv6m" height="500px" width="500px">
 </div>
 
 After looking into the evaluation we know how to achieve the task (classify cats and dogs images).

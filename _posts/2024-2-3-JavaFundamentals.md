@@ -11,7 +11,7 @@ In this Blog we'll briefly learn about variables, datatypes, conditional stateme
 
 Let's start
 
-<img src="/images/java_Fun.jpeg" height="300px" width="300px">
+<img src="https://tinyurl.com/42y63mce" height="300px" width="300px">
 
 ## Variables
 

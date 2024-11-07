@@ -105,5 +105,5 @@ public class MobilePhone {
 
 In the upcoming blog, we'll delve into OOPs topics individually, exploring each one in detail. Happy Learning!
 <div style="align:center;">
-    <img src="https://github.com/jr-dev1001/jr-dev1001.github.io/assets/85192850/eec54eff-6afc-4e6c-8334-0fbf92b5ed08" alt="CatWorkGIF">
+    <img src="https://media.tenor.com/G7PC6RSLXjgAAAAM/cat-work.gif" alt="CatWorkGIF">
 </div>

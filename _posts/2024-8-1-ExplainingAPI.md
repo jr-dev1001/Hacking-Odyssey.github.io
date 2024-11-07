@@ -29,7 +29,7 @@ In API appilication refers to the software and Interface is refferred to the con
 
 Illustrator: 
 
-<img src="/images/API_Ex.jpg" height="300px" width="300px">
+<img src="https://tinyurl.com/kcxv5uye" height="300px" width="300px">
 
 Let's think of an example you went to a movie theatre or a multiplex to book a ticket for a movie.
 1. You will go to the ticket counter and ask the clerk to book a ticket for 'God Father'at 'top row'.
@@ -77,5 +77,5 @@ APIs use response codes (like 200 for success, 404 for 'Not Found') to indicate 
 ## In Next
 In the next blog we will be learning `REST API`.
 <div style="align:center;">
-    <img src="/images/API_REST.jpg" width="150px" height="150px" alt="">
+    <img src="https://tinyurl.com/2smskpkt" width="150px" height="150px" alt="">
 </div>

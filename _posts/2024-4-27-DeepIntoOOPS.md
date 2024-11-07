@@ -187,6 +187,6 @@ And there you have it! We've explored the basics of OOP in Java. Keep experiment
 ## In Next
 In the next blog we will be learning `interfaces` in java.
 <div style="align:center;">
-    <img src="/images/Blog4_ending.jpg" width="150px" height="150px" alt="Chimp learning interface in java">
+    <img src="https://tinyurl.com/4bj8fbbh" width="150px" height="150px" alt="Chimp learning interface in java">
 </div>
 
