@@ -1,14 +1,14 @@
 
 remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
-title: Hacking Odessey
+title: Hacking Odyssey
 author: Vamsi Surakarapu
 description: >-
-  Hack-Odyssey is a personal portfolio where I showcase my skills and projects in multiple fields like cybersecurity, Java, machine learning, web development, blockchain, and more. It's a collection of real-world applications that highlight my problem-solving abilities and creativity. This portfolio reflects my journey through different domains, demonstrating how I tackle challenges and come up with innovative solutions. Whether it's securing systems, building apps, or diving into new technologies, Hack-Odyssey is where you can see how I apply my knowledge in practice.
+  Hack-Odyssey is a personal portfolio where I showcase my skills and projects in multiple fields like cybersecurity, Java, machine learning, web development, blockchain, and more. Its a collection of real-world applications that highlight my problem-solving abilities and creativity. This portfolio reflects my journey through different domains, demonstrating how I tackle challenges and come up with innovative solutions. Whether its securing systems, building apps, or diving into new technologies, Hack-Odyssey is where you can see how I apply my knowledge in practice.
 yat: 
   date_format: "%b %d, %Y"
 defaults:
   home:
-      heading: "Hacking Odessey"
+      heading: "Hacking Odyssey"
       subheading: "There is nothing we can do. So I wish for strength... to shatter fate."
       banner: "home.jpg"
       
