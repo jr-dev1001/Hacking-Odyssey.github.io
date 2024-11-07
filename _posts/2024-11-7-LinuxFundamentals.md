@@ -44,7 +44,7 @@ Starting with linux will have great impact whereever you go linux is already the
 There are many commands in linux we main focus upon what a linux adminstrator regularly uses. 
 
 - ls (lists the contents of a directory or file)
-- cd (Current Directory)
+- cd (Change Directory)
 - whoami (username)
 - hostname (hostname)
 - pwd (present working directory)
@@ -53,9 +53,9 @@ There are many commands in linux we main focus upon what a linux adminstrator re
 Importance of system architecture (software files).
 - man [command] (manual of that command)
 - whereis packageName (command is used to find the location of the source, binary, and manual sections of a command)
-- whatis -[commad] ( displays a brief description of a command on the command line.)
-____________________________________________________________________________________________________
-- sudo command (running as administrator, switch user do)
+- whatis [commad] ( displays a brief description of a command on the command line.)
+
+- sudo (running as administrator, switch user do)
     - sudo can be run as any user without opening new shell.
     - sudo only get to one standard user. By default root will be assigned to 1st user.
 - su (switch user)
