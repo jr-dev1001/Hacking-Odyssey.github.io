@@ -33,10 +33,11 @@ Torvalds initially called it **Freax**, but later it became **Linux**. He first 
 
 Linux borrowed many tools from the GNU project, so both GNU and Linux played roles in the Linux we know today.
 
-### Linux Today
+### Why start with Linux?
+
 Today, Linux powers everything from **supercomputers** and **smartphones** to **web servers**, **home appliances** (like washing machines and routers), and even **cars** and **refrigerators**.
 
-
+Starting with linux will have great impact whereever you go linux is already there apart from which stream/domain you choose linux commands are need for any kind of work, it might be knowingly or unknowingly.
 
 ## Linux Commands
 
