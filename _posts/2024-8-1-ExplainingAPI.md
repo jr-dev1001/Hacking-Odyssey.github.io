@@ -3,8 +3,8 @@ layout: post
 title: What is an API? 🤷‍♂️
 subtitle: How does two networks connect with a medium?
 excerpt_image: 
-categories: API
-tags: [API]
+categories: MISC
+tags: [MISC]
 ---
 
 ## Motivation
