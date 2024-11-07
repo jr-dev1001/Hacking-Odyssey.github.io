@@ -9,7 +9,7 @@ tags: [CyberSecurity]
 
 ## Motivation
 
-In real open source, you have the right to control your own destiny. - Linus Torvalds
+"In real open source, you have the right to control your own destiny. - Linus Torvalds"
 
 <div style="text-align:center;"> 
   <img src="https://tinyurl.com/4d6kbzrt" alt="Linus Torvalds">
@@ -67,7 +67,7 @@ We can further more discuss about User Management and File Management in the nex
 
 
 ## Installation process in Linux
-______________________________________________________________________________________________________
+
 ### installation, reinstallation and removal of software using apt
   - apt install
   - apt reinstall
@@ -75,13 +75,15 @@ ________________________________________________________________________________
   - apt cache search
   - apt purge
   - apt-get(uses cache) 
-________________________________________________________________________________________________________
+
+
 ### Installation of deb packages.
   - sudo dpkg -i [packagename]
-________________________________________________________________________________________________________
+
+
 ### Installation using shell (running scripts)
   - sh [packagename]
-________________________________________________________________________________________________________
+
 
 
 ## Up Next
