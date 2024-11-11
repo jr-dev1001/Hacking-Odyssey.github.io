@@ -1,1 +1,14 @@
-Hack-Odyssey is a personal portfolio where I showcase my skills and projects in multiple fields like cybersecurity, Java, machine learning, web development, blockchain, and more. It's a collection of real-world applications that highlight my problem-solving abilities and creativity. This portfolio reflects my journey through different domains, demonstrating how I tackle challenges and come up with innovative solutions. Whether it's securing systems, building apps, or diving into new technologies, Hack-Odyssey is where you can see how I apply my knowledge in practice.
+# Hacking-Odyssey
+
+**Hacking-Odyssey** is a personal portfolio where I showcase my skills and projects in multiple fields like:
+
+- Cybersecurity
+- Java
+- Machine Learning
+- Web Development
+- Blockchain
+- And more...
+
+This portfolio is a collection of real-world applications that highlight my **problem-solving abilities** and **creativity**. It reflects my journey through different domains, demonstrating how I tackle challenges and come up with innovative solutions.
+
+Whether it's securing systems, building apps, or diving into new technologies, **Hacking-Odyssey** is where you can see how I apply my knowledge in practice.
