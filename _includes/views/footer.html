@@ -1,0 +1,31 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner">
+      {%- assign currentYear = 'now' | date: "%Y" -%}
+      {%- assign copyright = site.copyright
+          | replace: '{currentYear}', currentYear
+          | replace: '{author}', site.author
+          | replace: '(c)', '&copy;'
+          | replace: '(p)', '℗'
+          | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
+      -%}
+      <div>{{ copyright }}</div>
+      <div class="social-links">
+        <a href="https://github.com/jr-dev1001" title="GitHub" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:24px;height:24px;">
+        </a>
+        <a href="mailto:jr_dev_vam@protonmail.com" title="Email">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:24px;height:24px;">
+        </a>
+        <a href="https://discord.com/users/jr_dev1001" title="Discord" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" style="width:24px;height:24px;">
+        </a>
+        <a href="https://twitter.com/JrDev1001" title="X" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" style="width:24px;height:24px;">
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
