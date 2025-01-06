@@ -30,7 +30,9 @@ This guide covers:
 Let’s gear up, fire up your terminal, and tackle these challenges head-on!
 
 > note: for each level at ssh increase the count before the username `bandit0 , bandit1, bandit3, bandit4...` and so on.
+
 ---
+
 ### Level 0
 - **Objective** :  Connect to the Bandit server via SSH.
 - **Steps**:
