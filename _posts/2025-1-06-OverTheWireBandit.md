@@ -18,7 +18,7 @@ tags: [CyberSecurity]
 
 ## Introduction
 
-Ready to dive into the OverTheWire Bandit CTF series? 🕵️‍♂️ This walkthrough is your ultimate guide, not just for solving the challenges, but for understanding the techniques and tools behind them. Whether you’re a beginner or looking to brush up your basics, the Bandit series is perfect for honing your Linux command-line skills while navigating realistic scenarios.
+Ready to dive into the OverTheWire Bandit CTF series? 🕵️‍♂️ This walkthrough is a guide. Whether you’re a beginner or looking to brush up your basics, the Bandit series is perfect for honing your Linux command-line skills while navigating realistic scenarios.
 
 > **Before You Start**: Make sure to check out the [rules](https://overthewire.org/rules/) to ensure a fair and fun experience.
 
