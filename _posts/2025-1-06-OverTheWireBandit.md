@@ -8,7 +8,8 @@ tags: [CyberSecurity]
 ---
 
 ## 🎉 Happy New Year (2025)! 🎉
-  - May this year bring you success, joy, and countless adventures in your learning journey! 
+
+  <p><i>May this year bring you success, joy, and countless adventures in your learning journey!</i></p>
 ---
 
 <p align="center">
