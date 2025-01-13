@@ -13,7 +13,7 @@ tags: [CyberSecurity Networking]
 
 ## Introduction 
 <p align='justify'> 
-  I'm always found of networking devices and imagining them data flowing around me through those deivces. I'm bad at forming analogies but here I'm trying to make another one 😅.
+  I've always been fond of networking devices, imagining them and flow of data around me through those deivces. I'm bad at forming analogies but here I'm trying to make another one 😅.
   Networking is like having your own Avengers team, where each device plays a special role to keep everything running smoothly and securely. 
   The <b>router</b> acts like Iron Man 🤖, connecting all your devices to the internet.
   <b>Servers</b> are like Captain America 🛡️, storing and protecting your important data.
