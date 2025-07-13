@@ -7,11 +7,19 @@ categories: CTF
 tags: [solidity]
 ---
 <h3 align="center">Ethernaut CTF Part-1</h3>
+<p align="center">
+  <img src="https://github.com/jr-dev1001/Hacking-Odyssey.github.io/blob/main/images/ethernaut.png" alt="Ethernaut">
+</p>
 
+---
 
 ## Introduction
-I've started doing work arounds on blockchain, as a part of it I started started solving Ethernaut CTF.
+I've started doing work arounds on blockchain, as a part of it I started solving Ethernaut CTF, as this is long making this into parts.
+
 ---
+
+## TLDR;
+
 ### Level Name - 0.Hello
 
 ☢️ Vulnerability Concept:
