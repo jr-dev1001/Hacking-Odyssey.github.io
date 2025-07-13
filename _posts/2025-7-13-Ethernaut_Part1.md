@@ -6,7 +6,7 @@ excerpt_image:
 categories: CTF
 tags: [solidity]
 ---
-<h3 align="center">My first Blog.</h3>
+<h3 align="center">Ethernaut CTF Part-1</h3>
 
 
 ## Introduction
