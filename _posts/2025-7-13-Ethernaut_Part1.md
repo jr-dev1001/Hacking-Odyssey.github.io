@@ -8,7 +8,7 @@ tags: [solidity]
 ---
 <h3 align="center">Ethernaut CTF Part-1</h3>
 <p align="center">
-  <img src="https://github.com/jr-dev1001/Hacking-Odyssey.github.io/blob/main/images/ethernaut.png" alt="Ethernaut">
+  <img src="https://raw.githubusercontent.com/jr-dev1001/Hacking-Odyssey.github.io/refs/heads/main/images/ethernaut.png" alt="Ethernaut">
 </p>
 
 ---
