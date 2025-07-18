@@ -74,6 +74,20 @@ An **API (Application Programming Interface)** is a set of rules that allows sof
 
 APIs use response codes (like 200 for success, 404 for 'Not Found') to indicate the server's response. They come in different types (like SOAP, REST) and can be private, public, partner-specific, or a combination of APIs. They are crucial for enabling different software systems to interact seamlessly.
 
+## Bonus
+**What happens When you sent an request server (Website Request Lifecycle):** <br>
+   1. Request a website.
+   2. check local Cache for IP address.
+   3. Check your recursive DNS server for address.
+   4. Query root server to find authoritative DNS Server.
+   5. Authoritative DNS server advises the IP address for the website.
+   6. Request passes through a web application firewall(WAF).
+   7. Request passes through a Load Balancer.
+   8. Connect to Webserver on port 80 or 443.
+   9. Web server receives the GET request.
+   10. Web Application talks to Database.
+   11. Your browser renders the HTML into a viewable website.
+
 ## In Next
 In the next blog we will be learning `REST API`.
 <div style="align:center;">
