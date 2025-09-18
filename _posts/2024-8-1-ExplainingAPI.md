@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is an API? 🤷‍♂️
+title: What is an API? 
 subtitle: How does two networks connect with a medium?
 excerpt_image: 
 categories: MISC
@@ -93,3 +93,4 @@ In the next blog we will be learning `REST API`.
 <div style="align:center;">
     <img src="https://tinyurl.com/2smskpkt" width="150px" height="150px" alt="">
 </div>
+
