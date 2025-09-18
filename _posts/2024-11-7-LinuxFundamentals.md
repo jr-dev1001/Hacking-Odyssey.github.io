@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Foundations Part 1 🐧
+title: Linux Foundations Part 1 
 subtitle: Why start with Linux?
 excerpt_image: 
 categories: CyberSecurity
@@ -90,3 +90,4 @@ We can further more discuss about User Management and File Management in the nex
 ## Up Next
 
 To be continued...
+
