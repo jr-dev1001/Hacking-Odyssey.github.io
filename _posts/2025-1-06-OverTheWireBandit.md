@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  OverTheWire Bandit Walkthrough 🐈
+title:  OverTheWire Bandit Walkthrough 
 subtitle: What is Flag?
 excerpt_image: 
 categories: CyberSecurity CTF
 tags: [CyberSecurity]
 ---
 
-## 🎉 Happy New Year (2025)! 🎉
-
-  <p><i>May this year bring you success, joy, and countless adventures in your learning journey!</i></p>
 ---
 
 <p align="center">
