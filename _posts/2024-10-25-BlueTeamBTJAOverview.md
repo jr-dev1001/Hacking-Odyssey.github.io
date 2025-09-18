@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Security Blue Team BTJA bundle 🛡️
+title: Overview of Security Blue Team BTJA bundle
 subtitle: What is the importance of Protecting our data?
 excerpt_image: 
 categories: CyberSecurity
@@ -31,23 +31,23 @@ This post is to bring an overview on Blue Team Junior Analyst budle offered Secu
 These introductory courses gives a headstart for cybersecurity fresher (Not only for blue team). These course is not just defensive security but also covers offinsive topics. These courses also provide you hands-on experience unlike other free courses.  
 </p>
 
-### Introduction to Network Analysis 🛜
+### Introduction to Network Analysis 
 In this module you will be learning : Networking Basics, WireShark & TCPDUMP <br>
 Challenges innvolved : analysing pcap files using wireshark and tcpdump to find malicious activity.
 
-### Introduction to OSINT 🔍
+### Introduction to OSINT 
 In this module you will be learning : Intelligence lifecycle, online tracking, Anonymization & OSINT tools. <br>
 Challenges innvolved : Tracking down a hacker footprints through OSINT methods & tools.
 
-### Introduction to Digital Forensics 👣
+### Introduction to Digital Forensics 
 In this module you will be learning : Evidence Types, Chain of custody ,Linux commands, stegnography(steghide) & passworded zip cracking (fcrackzip).  <br>
 Challenges innvolved : Investigation on employee's hard drive using linux commands, stegnography and password zip cracking.
 
-### Introduction to Dark Web operations 🧅
+### Introduction to Dark Web operations 
 In this module you will be learning : Layers of web, Who utilise dark web, Onion browser & Accessing of Dark Web <br>
 Challenges innvolved : Getting accesss on Dark web to a website( created by blue team so no panicing😅) and getting the information from the site and finding evidence.
 
-### Introduction to Threat Hunting ☣️
+### Introduction to Threat Hunting ☣
 In this module you will be learning : Generating Indicators( Mandiant IOC Collector,MD5 Hashing,SHA-1 Hashing,Strings, File Properties, Mandiant Redline, Virtual Machines) & Malware analysis <br>
 Challenges innvolved : Generating Indicator Of Compromise, Hunting For Files and Malware Threat Hunt(should be done in VM)
 
@@ -76,3 +76,4 @@ After Completion all six introductory courses you can go Blue Team Junior Analys
 ## Up Next
 
 In the Next upload Overview of ISC2 CC.
+
