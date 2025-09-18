@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating 🛠️ Tensorflow custom models in Frontend Applications💻.
+title: Integrating Tensorflow models in Frontend Applications.
 subtitle: How does model interact with frontend?
 excerpt_image: 
 categories: MachineLearning
@@ -153,4 +153,5 @@ Here We Gooo..!
 By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
 
 Thank you for reading.
+
 
