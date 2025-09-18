@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Learning Java Fundamentals!
 subtitle: what are the items required for programming?
 excerpt_image: 
