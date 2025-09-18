@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dive Deep 🏊‍♂️ into OOPS with Java 🚀 
+title:  Dive Deep into OOPS with Java 
 subtitle: What is in the OOPS?
 excerpt_image: 
 categories: Java OOPS
@@ -71,7 +71,7 @@ public class Main {
 
 ## The Four Pillars of OOP
 
-### Encapsulation: Data hiding and Access Control(Wrapping It Up) 🎁
+### Encapsulation: Data hiding and Access Control(Wrapping It Up) 
 
 Encapsulation is about bundling data (attributes) and methods (behaviors) together within a class and controlling access to them. It helps in achieving data hiding, where the internal state of an object is hidden from the outside world.
 
@@ -86,7 +86,7 @@ public class Car {
 }
 ```
 
-### Abstraction: Focus on What Matters 🧠
+### Abstraction: Focus on What Matters 
 
 Abstraction is the process of hiding the complex implementation details and showing only the essential features of an object. It allows us to focus on what an object does rather than how it does it. 
 
@@ -124,7 +124,7 @@ public class Car implements Vehicle {
 }
 ```
 
-## Inheritance: Reusing and Extending Code (Passing Down Knowledge) 📚
+## Inheritance: Reusing and Extending Code (Passing Down Knowledge) 
 
 Inheritance is a mechanism where a new class (subclass) is created from an existing class (superclass). The subclass inherits the properties and behaviors of the superclass and can also have its own additional features.
 
@@ -142,7 +142,7 @@ public class Car extends Vehicle {
 }
 ```
 
-## Polymorphism: Many Forms of Behavior (Many Forms, One Concept) 🔄
+## Polymorphism: Many Forms of Behavior (Many Forms, One Concept) 
 
 Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables methods to be implemented differently in derived classes.
 
@@ -182,11 +182,12 @@ public class Calculator {
 
 ```
 
-And there you have it! We've explored the basics of OOP in Java. Keep experimenting and practicing to solidify your understanding. If you have any questions or topics you'd like us to delve into further, feel free to reach out! 🚀
+And there you have it! We've explored the basics of OOP in Java. Keep experimenting and practicing to solidify your understanding. If you have any questions or topics you'd like us to delve into further, feel free to reach out! 
 
 ## In Next
 In the next blog we will be learning `interfaces` in java.
 <div style="align:center;">
     <img src="https://tinyurl.com/4bj8fbbh" width="150px" height="150px" alt="Chimp learning interface in java">
 </div>
+
 
