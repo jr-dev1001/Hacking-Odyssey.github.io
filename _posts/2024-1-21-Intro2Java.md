@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Start Exploring Java Fundamentals A Comprehensive Guide
 subtitle: What is Java and whats inside Java?
 excerpt_image: 
