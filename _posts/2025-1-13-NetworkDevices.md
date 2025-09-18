@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netwrok Devices 🛜
+title: Netwrok Devices 
 subtitle: How does data travel through air?
 excerpt_image: 
 categories: Networking 
@@ -13,14 +13,14 @@ tags: [CyberSecurity Networking]
 
 ## Introduction 
 <p align='justify'> 
-  I've always been fond of networking devices, imagining them and flow of data around me through those deivces. I'm bad at forming analogies but here I'm trying to make another one 😅.
+  I've always been fond of networking devices, imagining them and flow of data around me through those deivces. I'm bad at forming analogies but here I'm trying to make another one .
   Networking is like having your own Avengers team, where each device plays a special role to keep everything running smoothly and securely. 
-  The <b>router</b> acts like Iron Man 🤖, connecting all your devices to the internet.
-  <b>Servers</b> are like Captain America 🛡️, storing and protecting your important data.
-  <b>Firewalls</b> are Thor’s hammer ⚒️, blocking any bad stuff from entering your network.
-  <b>VPNs</b> are the Hulk 💪, hiding your identity and keeping your online activities safe.
-  <b>Switches</b> are like Spider-Man 🕸️, ensuring all your devices communicate with each other seamlessly.
-  Lastly, <b>encryption</b> is Doctor Strange’s magic 🔮, protecting your data and making sure no one can spy on you (we will learn about doctor strange 'in next'). 
+  The <b>router</b> acts like Iron Man , connecting all your devices to the internet.
+  <b>Servers</b> are like Captain America , storing and protecting your important data.
+  <b>Firewalls</b> are Thor’s hammer , blocking any bad stuff from entering your network.
+  <b>VPNs</b> are the Hulk , hiding your identity and keeping your online activities safe.
+  <b>Switches</b> are like Spider-Man , ensuring all your devices communicate with each other seamlessly.
+  Lastly, <b>encryption</b> is Doctor Strange’s magic , protecting your data and making sure no one can spy on you (we will learn about doctor strange 'in next'). 
   Together, these devices create a powerful network that keeps your internet fast, secure, and ready to tackle anything!
 </p>
 
