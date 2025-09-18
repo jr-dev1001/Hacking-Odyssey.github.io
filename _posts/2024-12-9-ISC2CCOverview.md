@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of ISC2 Certified in Cybersecurity 🪪
+title: Overview of ISC2 Certified in Cybersecurity
 subtitle: How does the data converted into signals?
 excerpt_image: 
 categories: CyberSecurity
