@@ -7,7 +7,7 @@ categories: MachineLearning
 tags: [MachineLearning]
 ---
 
-## Just for Motivation
+## Motivation
 
 "It’s about leveraging AI responsibly and strategically to enhance, not replace, the human elements of our roles." - Rajat Monga
 
@@ -153,5 +153,6 @@ Here We Gooo..!
 By following the above steps you are able to integrate the ML models in Angular and same steps can be implemented for other frontend frameworks also.
 
 Thank you for reading.
+
 
 
