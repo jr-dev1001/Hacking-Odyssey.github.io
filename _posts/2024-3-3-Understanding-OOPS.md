@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Exploring Java Fundamentals Part 2 🔢!
+layout:
+title: Exploring Java Fundamentals Part 2 !
 subtitle: Why Object Oriented Programming? 
 excerpt_image: 
 categories: Java OOPS
